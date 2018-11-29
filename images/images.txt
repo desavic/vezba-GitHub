@@ -1,2 +1,3 @@
 U ovaj folder smestamo slike koje su vezane za projekat
 Svi fajlovi moraju biti u .jpeg formatu
+U formatu 1200 * 800 px
