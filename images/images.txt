@@ -1,2 +1,2 @@
 U ovaj folder smestamo slike koje su vezane za projekat
-Svi fajlovi moraju biti u .gif formatu
+Svi fajlovi moraju biti u .jpeg formatu
